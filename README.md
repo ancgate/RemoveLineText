@@ -10,3 +10,4 @@ Steps
     c) Put all the links that matches a pattern and save them in a new CSV files
 3) Get the resource needed behind that link. This steps is not yet implemented. I hope to implement it in the future.
 
+http://quickfix.13857.n7.nabble.com/Tool-FIX-Log-Visualization-with-Notepad-td6559.html
